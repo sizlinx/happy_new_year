@@ -1,0 +1,1 @@
+(format t "Happy New Year!")
